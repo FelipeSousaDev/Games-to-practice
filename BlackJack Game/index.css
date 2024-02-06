@@ -1,0 +1,36 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-image: url("./images/table.png");
+  background-size: cover;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.title {
+  font-size: 50px;
+  color: goldenrod;
+}
+
+#first-paragraph {
+  font-style: italic;
+}
+
+#start-game, #new-card {
+  background-color: goldenrod;
+  color: green;
+  padding: 8px 55px;
+  font-size: 28px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+}
+
+#new-card {
+  margin-top: 15px;
+  padding: 8px 70px;
+
+}
